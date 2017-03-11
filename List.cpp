@@ -1,8 +1,8 @@
 /*****************************************************************************
 * @file : E:\C++Workspace\C++learning\C++learning\temp_test\t1.cpp
-* @author : Li weihao
+* @author : Lotrea
 * @date : 2017/3/8 19:30
-* @describe : listʵ��
+* @describe : listÊµÏÖ
 *****************************************************************************/
 #include<string>
 #include<iostream>
