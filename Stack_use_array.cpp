@@ -1,6 +1,6 @@
 /*****************************************************************************
 * @file : E:\C++Workspace\C++learning\C++learning\temp_test\Stack_use_array.cpp
-* @author : Li weihao
+* @author : Lotrea
 * @date : 2017/3/11 14:29
 * @description : Using array to implement a stack
 *****************************************************************************/
