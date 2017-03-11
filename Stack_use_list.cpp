@@ -1,6 +1,6 @@
 /*****************************************************************************
 * @file : E:\C++Workspace\C++learning\C++learning\temp_test\Stack.cpp
-* @author : Li weihao
+* @author : Lotrea
 * @date : 2017/3/10 22:09
 * @description : use list to implement stack
 *****************************************************************************/
@@ -21,7 +21,7 @@ private:
 	}element;
 	elementT* firstE = new elementT;
 };
-//ÈëÕ»º¯Êý
+//ÃˆÃ«Ã•Â»ÂºÂ¯ÃŠÃ½
 template<class T>
 void Mystack<T>::push(T data)
 {
@@ -32,7 +32,7 @@ void Mystack<T>::push(T data)
 	return;
 }
 
-//³öÕ»º¯Êý
+//Â³Ã¶Ã•Â»ÂºÂ¯ÃŠÃ½
 template<class T>
 T Mystack<T>::pop()
 {
